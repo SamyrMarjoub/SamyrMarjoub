@@ -3,7 +3,7 @@
  🔨 - Atualmente não estou trabalhando, não tenho idade suficiente. <br>
   📙 - Estou estudando Javascript e Typescript. <br>
   📙 - Tenho conhecimento intermediário em HTML e CSS. <br>
-  📕 - 17 Anos de idade e atualmente no terceio ano do ensino técnico de informática.
+  📕 - 17 Anos de idade e atualmente no terceiro ano do ensino técnico de informática.
   <hr>
 <div>
   <a href="https://github.com/SamyrMarjoub">
