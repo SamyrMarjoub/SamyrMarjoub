@@ -1,4 +1,4 @@
-Opá, tudo bom? Sou Samyr Marjoub!
+ 😁 Opá, tudo bom? Espero que sim, Sou Samyr Marjoub!
 
  🔨 - Atualmente não estou trabalhando, não tenho idade suficiente. <br>
   📙 - Estou estudando Javascript e Typescript. <br>
