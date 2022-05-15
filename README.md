@@ -1,7 +1,7 @@
  😁 Opá, tudo bom? Espero que sim, Sou <strong>Samyr Marjoub! </strong>
 
  🔨 - Atualmente não estou trabalhando, não tenho idade suficiente. <br>
-  📙 - Tenho conhecimento em HTML, CSS e Javascript. <br>
+  📙 - Tenho conhecimento em HTML, CSS, Javascript, bootstrap e NodeJs(Express). <br>
   📕 - 17 Anos de idade e atualmente no terceiro ano do ensino técnico de informática.
   <hr>
 <div>
