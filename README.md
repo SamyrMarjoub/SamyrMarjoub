@@ -1,10 +1,11 @@
-<div align='center'>
+
 😁 Opá, tudo bom? Espero que sim, Sou <strong>Samyr Marjoub! </strong>
 
  🔨 - Atualmente não estou trabalhando, não tenho idade suficiente. <br>
   📙 - Tenho conhecimento em HTML, CSS, Javascript, bootstrap e NodeJs(Express). <br>
   📕 - 17 Anos de idade e atualmente no terceiro ano do ensino técnico de informática.
   <hr>
+  <div align='center'>
 <div>
   <a href="https://github.com/SamyrMarjoub">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=SamyrMarjoub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
