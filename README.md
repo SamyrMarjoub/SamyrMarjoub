@@ -23,7 +23,4 @@
 
  <DIV>
  ![Snake animation](https://github.com/SamyrMarjoub/SamyrMarjoub/blob/output/github-contribution-grid-snake.svg)
-
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=SamyrMarjoub&theme=react)](https://github.com/SamyrMarjoub/SamyrMarjoub)
  </DIV>
