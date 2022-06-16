@@ -1,4 +1,4 @@
-
+<div align='center'>
 😁 Opá, tudo bom? Espero que sim, Sou <strong>Samyr Marjoub! </strong>
 
  🔨 - Atualmente não estou trabalhando, não tenho idade suficiente. <br>
@@ -26,6 +26,5 @@
  
  ![snake gif](https://github.com/SamyrMarjoub/SamyrMarjoub/blob/output/github-contribution-grid-snake.svg)
 
- 
 </div>
-
+<div>
