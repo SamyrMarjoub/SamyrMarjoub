@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/samyr-marjoub-388a7b222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
  
  <div>
- ![Snake animation](https://github.com/SamyrMarjoub/SamyrMarjoub/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/SamyrMarjoub/SamyrMarjoub/blob/output/github-contribution-grid-snake.svg)g)
  </div>
 
