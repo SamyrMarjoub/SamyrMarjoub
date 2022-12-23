@@ -1,10 +1,9 @@
 <div align='center'>
 😁 Opá, tudo bom? Espero que sim, Sou <strong>Samyr Marjoub! </strong>
 
- 🔨 - Atualmente não estou trabalhando, não tenho idade suficiente. <br>
-  📙 - Atualmente tenho conhecimento em HTML, CSS, Javascript, NodeJS(Express), mySQL e  ReactJS. <br>
-  📕 - 17 Anos de idade e atualmente no terceiro ano do ensino técnico de informática.
-  <hr>
+ 🔨 - Ocioso,a procura de uma oportunidade. <br>
+  📙 - Atualmente tenho conhecimento em desenvolvimento Web. Front-End - ReactJS, NextJs. Back-End - NodeJS(Express). DataBase - MySql, Firebase. <br>
+  📕 - 18 Anos de idade </br>
 
 <div>
   <a href="https://github.com/SamyrMarjoub">
