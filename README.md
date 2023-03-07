@@ -1,7 +1,7 @@
 <div align='center'>
 😁 Opá, tudo bom? Espero que sim, Sou <strong>Samyr Marjoub! </strong>
 
- 🔨 - Ocioso, a procura de uma oportunidade. <br>
+ 🔨 - Front-end Junior - Alcif Mais. <br>
   📙 - Atualmente tenho conhecimento em desenvolvimento Web. Front-End - ReactJS, NextJs. Back-End - NodeJS(Express). DataBase - MySql, Firebase. <br>
   📕 - 18 Anos de idade </br>
 
